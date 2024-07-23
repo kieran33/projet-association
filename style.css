@@ -1,0 +1,14 @@
+@media (min-width: 991px) {
+    #nosActions {
+        justify-content: space-around;
+    }
+
+    #sectionQuiSommesNous {
+        display: flex;
+        flex-direction: row;
+    }
+}
+
+a:hover {
+    opacity: 0.2;
+}
